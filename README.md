@@ -1,3 +1,3 @@
-# Training Connectivity And Membrane Parameters of Spiking Recurrent Neural Networks
+# Learning the synaptic and intrinsic membrane dynamics underlying working memory in spiking neural network models
 
 Under construction
